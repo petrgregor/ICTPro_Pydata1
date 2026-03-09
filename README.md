@@ -32,3 +32,14 @@ jupyter lab
 
 ### Markdown
 [Popis práce s Markdown souborem](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
+
+## Knihovna pandas
+Instalace: 
+```bash
+pip install pandas
+```
+
+Import standardně:
+```python
+import pandas as pd
+```
