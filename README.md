@@ -21,3 +21,11 @@ Jupyter notebook server:
 ```bash
 jupyter notebook
 ```
+
+Jupyter lab rozhraní:
+```bash
+jupyter lab
+```
+
+### Markdown
+[Popis práce s Markdown souborem](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
