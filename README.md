@@ -27,5 +27,8 @@ Jupyter lab rozhraní:
 jupyter lab
 ```
 
+#### Cheat sheet
+[Tahák](https://opensource.com/sites/default/files/gated-content/osdc_cheatsheet-jupyterlab_1.pdf)
+
 ### Markdown
 [Popis práce s Markdown souborem](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
